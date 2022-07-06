@@ -14,17 +14,21 @@ a{
     color: black}
 p.precio{
     font-size: 18px;}
-.home-header-menu i{
-    border-radius: 5px;
-    font-size: 20px;
-    padding: 5px;
-    color: white;
-    background-color: #1259c3;
-    box-sizing: border-box;}
 .home-header-menu {
     display: flex;
     justify-content: center;
     align-items: center;}
+.home-header-menu button{
+    background-color: #EAC926;
+    border: none}
+.home-header-menu i{
+    border-radius: 5px;
+    color: white;
+    background-color: #1259c3;
+    font-size: 20px;
+    padding: 5px;
+    box-sizing: border-box;}
+
     /*footer*/
 .home-footer-li{
     text-align: center;
